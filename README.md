@@ -1,7 +1,7 @@
 # Lab 8 - Network & ServiceWorkers
 
 ## Team Members
-- Bosco Liu
+- Yanhua Liu
 
 ## Deployed GitHub Pages Link
 https://boscoliu0.github.io/Lab8_Starter/
