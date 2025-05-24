@@ -4,7 +4,7 @@
 - Bosco Liu
 
 ## Deployed GitHub Pages Link
-https://your-username.github.io/Lab8_Starter/
+https://boscoliu0.github.io/Lab8_Starter/
 
 ## How are graceful degradation and service workers related?
 
